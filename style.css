@@ -4,11 +4,6 @@
     display: none;
 }
 
-::selection {
-  background: #EA56B5;
-/*   color: #fff; */
-}
-
 *{
     margin: 0;
     padding: 0;
