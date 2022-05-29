@@ -3,6 +3,9 @@
 ::-webkit-scrollbar{
     display: none;
 }
+::selections{
+    background: #EA56B5;
+}
 
 *{
     margin: 0;
