@@ -4,8 +4,9 @@
     display: none;
 }
 
-::selections{
-    background: #EA56B5;
+::selection {
+  background: #EA56B5;
+/*   color: #fff; */
 }
 
 *{
